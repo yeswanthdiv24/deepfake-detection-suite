@@ -216,3 +216,4 @@ For issues, questions, or suggestions, please open an issue in the repository.
 ---
 
 **Disclaimer**: This tool is for research and educational purposes. Always verify important media through multiple authoritative sources before making decisions based on detection results.
+<img width="1589" height="900" alt="WhatsApp Image 2026-05-07 at 19 38 01 (1)" src="https://github.com/user-attachments/assets/55be30f3-bba0-475a-bded-2ff58d4038cb" />
